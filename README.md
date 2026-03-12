@@ -19,9 +19,9 @@
 
 # 실제 사용 예시
 
-1. ![alt text](record1.png) 
-2. ![alt text](recordreview1.png) 
-3. ![alt text](recordreview2.png) 
-4. ![alt text](review1.png) 
-5. ![alt text](review2.png) 
-6. ![alt text](review3.png)
+1. ![alt text](MyFaces/record1.png) 
+2. ![alt text](MyFaces/recordreview1.png) 
+3. ![alt text](MyFaces/recordreview2.png) 
+4. ![alt text](MyFaces/review1.png) 
+5. ![alt text](MyFaces/review2.png) 
+6. ![alt text](MyFaces/review3.png)
